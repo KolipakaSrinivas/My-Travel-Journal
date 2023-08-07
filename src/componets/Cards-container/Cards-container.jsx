@@ -1,11 +1,21 @@
+import {useState,useEffect} from 'react'
 import Card from "../Card/Card"
 
+
+import data from '../../data/data.json'
+
 function Cards() {
+    const [dataset,setdataset] = useState([])
+
+    useEffect(()=>{
+        setdataset(data)
+    },[])
+
     return (
         <div className="flex card-container">
-            <Card/>
-            <Card/>
-            <Card/>
+            {dataset && dataset.map(function(data){
+                return <Card key={data.id} data={data}/>
+            })}
         </div>
     )
 }

@@ -1,0 +1,58 @@
+[
+
+    {
+      "id": 6,
+      "image": "Kedarnath-Temple.jpg",
+      "country": "India",
+      "visitplace": "Kedarnath Temple",
+      "date": "2023-11-12",
+      "about": "Embarked on a spiritual journey to the sacred Kedarnath Temple, nestled in the Himalayas, and experienced the serenity of the surroundings.",
+      "googlemapslink": "https://goo.gl/maps/eYQgRZXk6WHLqC8n6"
+    },
+    {
+      "id": 1,
+      "image": "Venice.jpg",
+      "country": "Italy",
+      "visitplace": "Venice",
+      "date": "2023-07-15",
+      "about": "Explored the enchanting canals of Venice, enjoyed gondola rides, and indulged in authentic Italian cuisine.",
+      "googlemapslink": "https://goo.gl/maps/7mT3uJ4YtZgHSLcH8"
+    },
+    {
+      "id": 2,
+      "image": "Kyoto.jpg",
+      "country": "Japan",
+      "visitplace": "Kyoto",
+      "date": "2023-05-02",
+      "about": "Visited stunning traditional temples, witnessed cherry blossoms in full bloom, and experienced the tranquility of Kyoto.",
+      "googlemapslink": "https://goo.gl/maps/2WFZ3Sip1cfxqnaT7"
+    },
+    {
+      "id": 3,
+      "image": "Sydney.jpg",
+      "country": "Australia",
+      "visitplace": "Sydney",
+      "date": "2023-09-20",
+      "about": "Admired the iconic Sydney Opera House, relaxed at Bondi Beach, and explored the vibrant city culture of Sydney.",
+      "googlemapslink": "https://goo.gl/maps/CtGRCk7G32Uc9CrZ6"
+    },
+    {
+      "id": 4,
+      "image": "rand-Canyon.jpg",
+      "country": "USA",
+      "visitplace": "Grand Canyon",
+      "date": "2023-06-10",
+      "about": "Witnessed the breathtaking beauty of the Grand Canyon, hiked along its trails, and marveled at the natural wonders.",
+      "googlemapslink": "https://goo.gl/maps/QEofYUurT7KKh9KJA"
+    },
+    {
+      "id": 5,
+      "image": "Barcelona.jpg",
+      "country": "Spain",
+      "visitplace": "Barcelona",
+      "date": "2023-08-25",
+      "about": "Explored the architectural marvels of Barcelona, enjoyed the vibrant street life, and savored tapas at local markets.",
+      "googlemapslink": "https://goo.gl/maps/zzMaeYjUs7BZMzbx6"
+    }
+  ]
+  

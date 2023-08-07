@@ -1,5 +1,7 @@
 import { Fragment } from 'react'
- import './App.css'
+import './App.css'
+
+// import data from './data/data.json'
 
 
 
@@ -8,6 +10,8 @@ import Cards from './componets/Cards-container/Cards-container'
 
 
 function App() {
+
+    
     return (
         <Fragment>
                 <Navbar/>

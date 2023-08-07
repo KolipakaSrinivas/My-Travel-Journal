@@ -126,6 +126,7 @@ main {
 .card-img img {
   width: 200px;
   height: 260px;
+  border-radius:5px ;
 }
 
 .card-name h2 {
